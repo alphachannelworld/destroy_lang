@@ -1,0 +1,28 @@
+{
+  "pack": {
+    "description": {
+      "text": "Destroy the translation key.",
+      "color": "red"
+    },
+    "pack_format": 15,
+    "supported_formats": {
+      "min_inclusive": 9,
+      "max_inclusive": 64
+    },
+    "min_format": [
+      9,
+      0
+    ],
+    "max_format": [
+      2147483647,
+      2147483647
+    ]
+  },
+  "filter": {
+    "block": [
+      {
+        "path": "^lang/.*"
+      }
+    ]
+  }
+}
