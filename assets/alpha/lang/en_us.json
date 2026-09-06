@@ -1,0 +1,12 @@
+{
+  "chat.type.admin": "[%s: %s] §7(chat.type.admin)§r",
+  "chat.type.announcement": "[%s] %s §7(chat.type.announcement)§r",
+  "chat.type.emote": "* %s %s §7(chat.type.emote)§r",
+  "chat.type.team.sent": "-> %s <%s> %s §7(chat.type.team.sent)§r",
+  "chat.type.team.text": "%s <%s> %s §7(chat.type.team.text)§r",
+  "chat.type.text": "<%s> %s §7(chat.type.text)§r",
+  "options.generic_value": "%s: %s §7(options.generic_value)§r",
+  "options.percent_add_value": "%s: +%s%% §7(options.percent_add_value)§r",
+  "options.percent_value": "%s: %s%% §7(options.percent_value)§r",
+  "options.pixel_value": "%s: %spx §7(options.pixel_value)§r"
+}
